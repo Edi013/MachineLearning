@@ -1,0 +1,10 @@
+[
+    {"location": "Bucuresti", "rooms": 2, "surface": 55, "floor": 3, "bathrooms": 1, "distance_transport": 300, "price": 85000},
+    {"location": "Cluj-Napoca", "rooms": 3, "surface": 75, "floor": 5, "bathrooms": 2, "distance_transport": 150, "price": 140000},
+    {"location": "Iasi", "rooms": 2, "surface": 50, "floor": 2, "bathrooms": 1, "distance_transport": 500, "price": 70000},
+    {"location": "Timisoara", "rooms": 4, "surface": 90, "floor": 1, "bathrooms": 2, "distance_transport": 200, "price": 120000},
+    {"location": "Brasov", "rooms": 3, "surface": 68, "floor": 4, "bathrooms": 1, "distance_transport": 250, "price": 98000},
+    {"location": "Constanta", "rooms": 2, "surface": 60, "floor": 6, "bathrooms": 1, "distance_transport": 400, "price": 65000},
+    {"location": "Sibiu", "rooms": 3, "surface": 80, "floor": 2, "bathrooms": 2, "distance_transport": 180, "price": 110000},
+    {"location": "Oradea", "rooms": 1, "surface": 40, "floor": 5, "bathrooms": 1, "distance_transport": 350, "price": 52000}
+]

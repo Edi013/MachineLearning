@@ -1,0 +1,34 @@
+[
+    {
+        "type": "Toyota RAV4",
+        "engine": "2.5L",
+        "fuel": "Hybrid",
+        "year": 2019,
+        "mileage": 45000,
+        "price": 27000
+    },
+    {
+        "type": "Honda CR-V",
+        "engine": "2.0L",
+        "fuel": "Petrol",
+        "year": 2018,
+        "mileage": 60000,
+        "price": 22000
+    },
+    {
+        "type": "BMW X3",
+        "engine": "2.0L",
+        "fuel": "Diesel",
+        "year": 2020,
+        "mileage": 30000,
+        "price": 38000
+    },
+    {
+        "type": "Volvo XC60",
+        "engine": "2.0L",
+        "fuel": "Hybrid",
+        "year": 2021,
+        "mileage": 15000,
+        "price": 45000
+    }
+]
