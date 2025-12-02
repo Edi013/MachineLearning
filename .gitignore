@@ -1,3 +1,7 @@
+HM7/cache_dir
+HM7/outputs
+HM7/runs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
